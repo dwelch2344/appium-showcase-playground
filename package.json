@@ -1,0 +1,17 @@
+{
+  "name": "node-stack",
+  "version": "0.0.1",
+  "private": false,
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  },
+  "scripts": {},
+  "dependencies": {
+    "wd": "~0.2.10",
+    "chai-as-promised": "~4.1.0",
+    "colors": "~0.6.2",
+    "chai": "~1.9.0",
+    "q": "~1.0.0"
+  }
+}
